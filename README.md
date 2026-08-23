@@ -112,15 +112,6 @@ Make sure Discord is running before starting the program.
 
 Press `Ctrl+C` in the Command Prompt window to stop the Rich Presence.
 
-## Files
-
-* `main.py` — Main program
-* `activities.json` — Activity data
-* `requirements.txt` — Python dependencies
-* `start.bat` — Automatic launcher
-* `.gitignore` — Files Git should ignore
-* `README.md` — This guide
-
 ## Disclaimer
 
 This is an unofficial fan-made project and is not affiliated with Rockstar Games or Take-Two Interactive.
