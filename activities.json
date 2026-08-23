@@ -1,0 +1,352 @@
+[
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Cruising Ocean Drive, Vice City",
+    "category": "freeroam",
+    "duration": [180, 360],
+    "next_category": ["crime", "freeroam", "shopping", "mission"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Exploring Grassriver Swamps",
+    "category": "freeroam",
+    "duration": [240, 480],
+    "next_category": ["side_activity", "freeroam", "crime"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Shopping at Vice City Mall",
+    "category": "shopping",
+    "duration": [120, 240],
+    "next_category": ["freeroam", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Chilling at South Beach",
+    "category": "freeroam",
+    "duration": [180, 300],
+    "next_category": ["freeroam", "crime", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Riding Airboat in Leonida Keys",
+    "category": "freeroam",
+    "duration": [200, 400],
+    "next_category": ["side_activity", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Browsing Leonida Viral Clips",
+    "category": "safehouse",
+    "duration": [120, 240],
+    "next_category": ["freeroam", "crime", "mission"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Planning a Pawn Shop Robbery",
+    "category": "planning",
+    "duration": [180, 360],
+    "next_category": ["crime", "mission"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Holding Up a Convenience Store",
+    "category": "crime",
+    "duration": [120, 240],
+    "next_category": ["chase", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Hotwiring a Custom Muscle Car",
+    "category": "crime",
+    "duration": [90, 180],
+    "next_category": ["chase", "freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Scouting Port Gellhorn Bank",
+    "category": "planning",
+    "duration": [240, 420],
+    "next_category": ["mission", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Evading 4-Star Wanted Level",
+    "category": "chase",
+    "duration": [300, 600],
+    "next_category": ["safehouse", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Highway Chase with Vice City PD",
+    "category": "chase",
+    "duration": [240, 500],
+    "next_category": ["safehouse", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Losing the Cops in the Swamps",
+    "category": "chase",
+    "duration": [200, 420],
+    "next_category": ["safehouse", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Wrangling Alligators in Grassriver",
+    "category": "side_activity",
+    "duration": [180, 360],
+    "next_category": ["freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Attending a Mud Club Gathering",
+    "category": "side_activity",
+    "duration": [240, 480],
+    "next_category": ["freeroam", "side_activity", "crime"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Street Racing in Port Gellhorn",
+    "category": "side_activity",
+    "duration": [240, 450],
+    "next_category": ["chase", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "At a Safehouse in Stockyard",
+    "category": "safehouse",
+    "duration": [180, 360],
+    "next_category": ["planning", "freeroam", "mission"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Escaping Thrill Hill Gangs",
+    "category": "chase",
+    "duration": [180, 360],
+    "next_category": ["safehouse", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "In Mission: Highway Heist",
+    "category": "mission",
+    "duration": [480, 900],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "In Mission: Clean Escape",
+    "category": "mission",
+    "duration": [420, 840],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "In Mission: Vice City Nights",
+    "category": "mission",
+    "duration": [500, 960],
+    "next_category": ["safehouse", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Modding Lowrider at Customs Garage",
+    "category": "shopping",
+    "duration": [180, 360],
+    "next_category": ["freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Tanning at Starfish Island Pool",
+    "category": "freeroam",
+    "duration": [150, 300],
+    "next_category": ["shopping", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Stealing a Luxury Yacht",
+    "category": "crime",
+    "duration": [240, 480],
+    "next_category": ["chase", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Deep Sea Fishing in Keys Inlet",
+    "category": "side_activity",
+    "duration": [300, 600],
+    "next_category": ["freeroam", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "In Mission: Prison Breakout",
+    "category": "mission",
+    "duration": [540, 1000],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Buying Guns at Ammu-Nation",
+    "category": "shopping",
+    "duration": [120, 240],
+    "next_category": ["planning", "crime"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Dodging Coast Guard Speedboats",
+    "category": "chase",
+    "duration": [240, 480],
+    "next_category": ["freeroam", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Filming Stunts for Social Media",
+    "category": "side_activity",
+    "duration": [180, 360],
+    "next_category": ["freeroam", "shopping"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "In Mission: Port Gellhorn Cargo",
+    "category": "mission",
+    "duration": [480, 900],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Robbing a Gas Station in Hamlet",
+    "category": "crime",
+    "duration": [120, 240],
+    "next_category": ["chase", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Party at Nine11 Club, Vice City",
+    "category": "side_activity",
+    "duration": [240, 500],
+    "next_category": ["freeroam", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Hiding in Motel near Ambrosia",
+    "category": "safehouse",
+    "duration": [180, 360],
+    "next_category": ["planning", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "In Mission: Swamp Smugglers",
+    "category": "mission",
+    "duration": [450, 850],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Hacking Security Cameras",
+    "category": "planning",
+    "duration": [150, 300],
+    "next_category": ["crime", "mission"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Jet Skiing along Washington Beach",
+    "category": "freeroam",
+    "duration": [180, 360],
+    "next_category": ["side_activity", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Monster Truck Rally in Kelly County",
+    "category": "side_activity",
+    "duration": [240, 480],
+    "next_category": ["freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Stealing a Supercar from Showroom",
+    "category": "crime",
+    "duration": [150, 300],
+    "next_category": ["chase", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "In Mission: Ocean Drive Showdown",
+    "category": "mission",
+    "duration": [500, 950],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Getting a Tattoo in Little Haiti",
+    "category": "shopping",
+    "duration": [120, 240],
+    "next_category": ["freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "In Mission: Bank Vault Breach",
+    "category": "mission",
+    "duration": [600, 1080],
+    "next_category": ["chase"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Evading SWAT Helicopters",
+    "category": "chase",
+    "duration": [300, 600],
+    "next_category": ["safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Skydiving over Vice City International",
+    "category": "side_activity",
+    "duration": [180, 300],
+    "next_category": ["freeroam"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Drifting around Port Gellhorn Docks",
+    "category": "side_activity",
+    "duration": [180, 360],
+    "next_category": ["freeroam", "chase"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Counting Cash at Penthouse Safehouse",
+    "category": "safehouse",
+    "duration": [180, 360],
+    "next_category": ["shopping", "planning", "freeroam"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "In Mission: Key Largo Syndicate",
+    "category": "mission",
+    "duration": [480, 900],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Stealthing through Cargo Ship",
+    "category": "mission",
+    "duration": [420, 800],
+    "next_category": ["chase", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Jason & Lucia",
+    "state": "Off-Road Racing in Leonard County",
+    "category": "side_activity",
+    "duration": [240, 450],
+    "next_category": ["freeroam", "side_activity"]
+  },
+  {
+    "details": "Story Mode - Jason",
+    "state": "Buying New Clothes at Suburban",
+    "category": "shopping",
+    "duration": [120, 240],
+    "next_category": ["freeroam", "safehouse"]
+  },
+  {
+    "details": "Story Mode - Lucia",
+    "state": "Watching Sunset on Vice City Pier",
+    "category": "freeroam",
+    "duration": [180, 360],
+    "next_category": ["freeroam", "safehouse", "crime"]
+  }
+]
