@@ -48,7 +48,7 @@ cd %USERPROFILE%\Desktop
 Replace `YOUR_USERNAME` with the GitHub username that owns the repository:
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/GTA6-Rich-Presence.git
+git clone https://github.com/Dantezz025/GTA6-Rich-Presence.git
 ```
 
 ### 5. Enter the project folder
@@ -77,7 +77,7 @@ Once Git and Python are installed, you can copy and paste these commands:
 
 ```cmd
 cd %USERPROFILE%\Desktop
-git clone https://github.com/YOUR_USERNAME/GTA6-Rich-Presence.git
+git clone https://github.com/Dantezz025/GTA6-Rich-Presence.git
 cd GTA6-Rich-Presence
 start.bat
 ```
