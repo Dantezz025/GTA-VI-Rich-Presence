@@ -12,10 +12,10 @@ The program automatically changes your Discord Rich Presence using randomized ac
 * Git
 
 ## Installation 
-1. Download ZIP file.
-1. Extract the ZIP file.
-2. Open the extracted folder.
-3. Double-click `start.bat`.
+1. Download the ZIP file.
+2. Extract the ZIP file.
+3. Open the extracted folder.
+4. Double-click `start.bat`.
 
 The launcher will automatically install the required Python libraries.
 
