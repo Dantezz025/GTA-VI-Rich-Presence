@@ -9,7 +9,6 @@ The program automatically changes your Discord Rich Presence using randomized ac
 * Windows
 * Python 3
 * Discord
-* Git
 
 ## Installation 
 1. Download the ZIP file.
